@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "filename": "current.dll",
   "originalName": "Mane.dll",
-  "hash": "531d28c1cbe86e6517c5e0b4a0b923991b6dde520487bf4d684ee4d0a58a159b",
-  "uploadedAt": "2026-09-08T22:41:14.481Z",
+  "hash": "402ac3f47f0adb2b4d3387699416409f96d85bae5675d39ec060e1b0893e68f0",
+  "uploadedAt": "2026-09-08T22:41:20.769Z",
   "history": [
     {
-      "replacedAt": "2026-09-08T22:41:14.481Z"
+      "replacedAt": "2026-09-08T22:41:20.769Z"
     }
   ]
 }
